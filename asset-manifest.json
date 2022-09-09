@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gymsgg/static/css/main.c8fc376d.css",
+    "main.js": "/gymsgg/static/js/main.875834a8.js",
+    "static/js/787.015e65be.chunk.js": "/gymsgg/static/js/787.015e65be.chunk.js",
+    "index.html": "/gymsgg/index.html",
+    "main.c8fc376d.css.map": "/gymsgg/static/css/main.c8fc376d.css.map",
+    "main.875834a8.js.map": "/gymsgg/static/js/main.875834a8.js.map",
+    "787.015e65be.chunk.js.map": "/gymsgg/static/js/787.015e65be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8fc376d.css",
+    "static/js/main.875834a8.js"
+  ]
+}
